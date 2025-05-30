@@ -1,3 +1,3 @@
 # tanka
-🌸 短歌コレクション | Tanka Collection 
-Community-driven archive for collecting and preserving submitted tanka poems. みんなで作る短歌のアーカイブプロジェクト。
+🌸 短歌投稿アーカイブ | Community Tanka Archive
+みんなから投稿された短歌作品を収集・保存するオープンなリポジトリです。日本の伝統的な短詩形である短歌を通じて、現代の声を記録していきます。
